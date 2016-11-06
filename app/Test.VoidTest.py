@@ -1,7 +1,9 @@
-from src.settings import *
 from src.tools.basicFuncTools import *
 
+#
+# Basic main.
+#
 if __name__ == '__main__':
-    initMain()
+    initForPyInstaller()
 
     print("This test do almost nothing :)")

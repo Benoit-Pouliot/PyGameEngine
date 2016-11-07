@@ -1,4 +1,4 @@
-from src.tools.basicFuncTools import *
+from src.tools.initFuncTools import *
 
 #
 # Basic main.

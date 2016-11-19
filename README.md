@@ -14,4 +14,5 @@ Some basics functionalities to help to create LD games.
 
 [PyScroll](http://pygame.org/project-pyscroll-2892-.html)
 
+[NumPy](http://www.numpy.org/)
 
